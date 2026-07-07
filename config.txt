@@ -1,0 +1,5 @@
+#Fate Client injector config file
+customProcName=false
+delaystr=5
+dllPath=D:\clulss\x64\Release\clulss.dll
+procName=minecraft.windows.exe
